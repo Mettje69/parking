@@ -1,4 +1,4 @@
-# Vehicle-Parking-Database-Management-System
+# parking
  Simple PHP and Bootstrap vehicle parking management system
 
 # How to setup on your local machine
@@ -10,5 +10,3 @@
 	<li>pull these on your htdocs and type on your browser 'localhost/name'</li>
 	<li>now enter name and password and move on</li>
 </ul>
-# parking
-# parking
